@@ -1,0 +1,4 @@
+work	"Burst_Generator.vhd"
+work	"Managed_Shifter.vhd"
+work	"clockgenN.vhd"
+work	"counterN.vhd"

@@ -1,0 +1,25 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "secureip" -o "C:/Users/Tony Stark/Desktop/Extender/clockgenN_TB_isim_beh.exe" -prj "C:/Users/Tony Stark/Desktop/Extender/clockgenN_TB_beh.prj" "work.clockgenN_TB" 
+ISim P.28xd (signature 0xa0883be4)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/Tony Stark/Desktop/Extender/Managed_Shifter.vhd" into library work
+Parsing VHDL file "C:/Users/Tony Stark/Desktop/Extender/counterN.vhd" into library work
+Parsing VHDL file "C:/Users/Tony Stark/Desktop/Extender/Burst_Generator.vhd" into library work
+Parsing VHDL file "C:/Users/Tony Stark/Desktop/Extender/clockgenN.vhd" into library work
+Parsing VHDL file "C:/Users/Tony Stark/Desktop/Extender/clockgenN_TB.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity Managed_Shifter [managed_shifter_default]
+Compiling architecture behavioral of entity Burst_Generator [\Burst_Generator(100)\]
+Compiling architecture behavioral of entity counterN [\counterN(100)\]
+Compiling architecture behavioral of entity clockgenN [clockgenn_default]
+Compiling architecture behavior of entity clockgenn_tb
+Time Resolution for simulation is 1ps.
+Waiting for 2 sub-compilation(s) to finish...
+Compiled 11 VHDL Units
+Built simulation executable C:/Users/Tony Stark/Desktop/Extender/clockgenN_TB_isim_beh.exe
+Fuse Memory Usage: 29408 KB
+Fuse CPU Usage: 841 ms

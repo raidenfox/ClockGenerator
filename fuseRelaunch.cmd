@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/Tony Stark/Desktop/Extender/clockgenN_TB_isim_beh.exe" -prj "C:/Users/Tony Stark/Desktop/Extender/clockgenN_TB_beh.prj" "work.clockgenN_TB" 

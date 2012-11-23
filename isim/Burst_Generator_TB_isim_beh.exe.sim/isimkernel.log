@@ -1,0 +1,28 @@
+Command line:
+   Burst_Generator_TB_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49520
+
+Mon Nov 19 02:25:15 2012
+
+
+ Elaboration Time: 0.062401 sec
+
+ Current Memory Usage: 514.388 Meg
+
+ Total Signals          : 310
+ Total Nets             : 306
+ Total Signal Drivers   : 207
+ Total Blocks           : 203
+ Total Primitive Blocks : 101
+ Total Processes        : 207
+ Total Traceable Variables  : 210
+ Total Scalar Nets and Variables : 868
+
+ Total Simulation Time: 0.124801 sec
+
+ Current Memory Usage: 357.093 Meg
+
+Mon Nov 19 02:32:45 2012
+

@@ -1,0 +1,5 @@
+vhdl work "Managed_Shifter.vhd"
+vhdl work "counterN.vhd"
+vhdl work "Burst_Generator.vhd"
+vhdl work "clockgenN.vhd"
+vhdl work "clockgenN_TB.vhd"
